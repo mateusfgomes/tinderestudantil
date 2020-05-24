@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "628864594615",
+    "firebase_url": "https://tinder-estudantil.firebaseio.com",
+    "project_id": "tinder-estudantil",
+    "storage_bucket": "tinder-estudantil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628864594615:android:9414e58576e9f6a1421332",
+        "android_client_info": {
+          "package_name": "com.example.tinderestudantil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628864594615-8tilk8a38ebj0rb9q4e5ukukl63q2lbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhPBzNwBWQxFovqzis7WjmxErhZ-_blOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628864594615-8tilk8a38ebj0rb9q4e5ukukl63q2lbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
