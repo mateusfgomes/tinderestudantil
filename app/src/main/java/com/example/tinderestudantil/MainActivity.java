@@ -19,9 +19,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Button sign = findViewById(R.id.tofirst);
         sign.setOnClickListener(this);
 
-
     }
-
     private void moveToMainScreen(){
 
         Intent move = new Intent(MainActivity.this, MainScreen.class);

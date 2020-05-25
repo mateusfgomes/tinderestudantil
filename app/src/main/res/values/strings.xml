@@ -2,14 +2,14 @@
     <string name="app_name">tinderestudantil</string>
     <string name="cadastre_se">Cadastre-se</string>
     <string name="nomecompleto">Nome Completo</string>
-    <string name="username">Nome de Usuário</string>
+    <string name="e_mail">E-mail</string>
     <string name="first">Primeiro, insira seu\nnome completo</string>
-    <string name="second">Agora, informe seu\nNome de Usuário\n e Senha</string>
+    <string name="second">Agora, informe seu\nE-mail e crie uma\nSenha</string>
     <string name="third">Por fim, nos diga seu endereço</string>
     <string name="next">Próximo</string>
     <string name="password">Senha</string>
     <string name="confirm_password">Confirmar Senha</string>
-    <string name="login">Login</string>
+    <string name="login">E-mail</string>
     <string name="senha">Senha</string>
     <string name="continuar">Continuar</string>
     <string name="tinder_estudantil">Tinder Estudantil</string>
@@ -18,4 +18,9 @@
     <string name="complemento">Complemento</string>
     <string name="bairro">Bairro</string>
     <string name="cidade">Cidade</string>
+    <string name="doar_livros">Doar Livros</string>
+    <string name="encontrar_livros">Encontrar Livros</string>
+    <string name="servi_os">Serviços</string>
+    <string name="contato">Contato</string>
+    <string name="ana_n_99_99999_9999_nana_gmail_com_n_nbia_n_99_99999_9999_nbia_gmail_com">Ana:\n(99) 99999–9999\nana@gmail.com\n\nBia:\n(99) 99999–9999\nbia@gmail.com</string>
 </resources>

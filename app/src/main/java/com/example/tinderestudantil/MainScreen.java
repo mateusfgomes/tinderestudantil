@@ -9,15 +9,13 @@ import android.widget.Button;
 
 public class MainScreen extends AppCompatActivity {
 
-    private Button Contato;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_screen);
 
-        Contato = findViewById(R.id.button_contato);
-        Contato.setOnClickListener(new View.OnClickListener() {
+        Button contato = findViewById(R.id.button_contato);
+        contato.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 moveToContactScreen();
