@@ -37,7 +37,6 @@ public class SecondSignIn extends AppCompatActivity {
 
         Button next = findViewById(R.id.button_continue2);
 
-        /*Login*/
         mAuth = FirebaseAuth.getInstance();
         firebaseAuthListener = new FirebaseAuth.AuthStateListener() {
             @Override

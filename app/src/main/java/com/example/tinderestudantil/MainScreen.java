@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import com.google.firebase.auth.FirebaseAuth;
+
 public class MainScreen extends AppCompatActivity {
 
     @Override
@@ -28,4 +30,9 @@ public class MainScreen extends AppCompatActivity {
         startActivity(moveContato);
     }
 
+    public void logout(View view){
+        FirebaseAuth.getInstance().signOut();
+        Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+        startActivity(intent);
+    }
 }

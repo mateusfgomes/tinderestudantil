@@ -13,7 +13,7 @@
         android:layout_width="wrap_content"
         android:layout_height="67dp"
         android:fontFamily="@font/varela_regular"
-        android:text="@string/servi_os"
+        android:text="@string/bem_vindo"
         android:textColor="#FFFFFF"
         android:textSize="17pt"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -66,6 +66,23 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.444" />
+
+    <ImageButton
+        android:id="@+id/logout"
+        android:layout_width="70dp"
+        android:layout_height="75dp"
+        android:background="@drawable/exit_button"
+        android:onClick="logout"
+        android:src="@drawable/exit"
+        android:text="@string/sair"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.997"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

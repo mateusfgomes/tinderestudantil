@@ -20,7 +20,9 @@
     <string name="cidade">Cidade</string>
     <string name="doar_livros">Doar Livros</string>
     <string name="encontrar_livros">Encontrar Livros</string>
-    <string name="servi_os">Serviços</string>
+    <string name="bem_vindo">Bem-Vindo</string>
     <string name="contato">Contato</string>
     <string name="ana_n_99_99999_9999_nana_gmail_com_n_nbia_n_99_99999_9999_nbia_gmail_com">Ana:\n(99) 99999–9999\nana@gmail.com\n\nBia:\n(99) 99999–9999\nbia@gmail.com</string>
+    <string name="o_que_voc_deseja_ndoar">O que você deseja\ndoar?</string>
+    <string name="sair">Sair</string>
 </resources>
